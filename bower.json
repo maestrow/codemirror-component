@@ -1,0 +1,22 @@
+{
+  "name": "codemirror-component",
+  "version": "0.0.0",
+  "authors": [
+    "Andrey Shmelev <andrew.shmelev@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.1.0",
+    "jquery": "",
+    "codemirror": "",
+    "marked": "",
+  }
+}
